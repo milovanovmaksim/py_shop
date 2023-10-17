@@ -1,5 +1,0 @@
-{
-    "rust-analyzer.linkedProjects": [
-        "./task_1_2/Cargo.toml"
-    ]
-}
